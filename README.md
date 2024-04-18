@@ -14,7 +14,7 @@ Este projeto visa desenvolver um sistema de biblioteca moderno e inovador, com f
 O trabalho em questão é executado com o propósito de estudo e aprimoramento pessoal. Com interesse em aprofundar meu conhecimento em criações de tabelas SQL
 
 ### Modelagem do Projeto
-![]](projeto_biblioteca/diagrama.png)
+![](projeto_biblioteca/diagrama.png)
 
 
 Espero que gostem e possam usufruir... ;)
